@@ -1,12 +1,13 @@
 {
 	"name": "wmnp",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Windows Manipulator",
 	"author": {
 		"name": "Zoran Banković",
 		"email": "zoranbankovic@gmail.com"
 	},
 	"main": "index.js",
+	"types": "index.d.ts",
 	"scripts": {
 		"build": "node-gyp rebuild",
 		"install": "node-gyp rebuild"
