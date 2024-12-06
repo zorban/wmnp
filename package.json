@@ -14,5 +14,18 @@
 	"devDependencies": {
 		"node-addon-api": "^8.3.0",
 		"node-gyp": "^10.3.1"
-	}
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zorban/wmnp.git"
+	},
+	"keywords": [
+		"windows",
+		"control",
+		"manipulator",
+		"native",
+		"node",
+		"addon"
+	]
 }
